@@ -1,0 +1,9 @@
+[[Draco]]
+arch = "x86_64"
+git-tree-sha1 = "e1bca315d120e4a665e22d7912d8624aff2601ac"
+libc = "glibc"
+os = "linux"
+
+    [[Draco.download]]
+    sha256 = "ef1b09ce44141508e0190e1c2757b7e9279cad8cafccc9669e0999779390685a"
+    url = "https://github.com/PanverseRobotics/Draco_jll.jl/releases/download/Draco-v0.1.0+0/Draco.v0.1.0.x86_64-linux-gnu.tar.gz"
